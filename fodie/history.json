@@ -37,6 +37,28 @@
             "cafe-aylanto-2.jpg",
             "cafe-aylanto-3.jpg"
          ]
+      },
+       {
+         "name":"Spice Bazaar",
+         "location":"MM Alam Road, Lahore",
+         "timing":"11 am - 11 pm",
+         "website":"http://www.spicebazaar.pk/",
+         "gallery":[
+            "spice-bazaar-1.jpg",
+            "spice-bazaar-2.jpg",
+            "spice-bazaar-3.jpg"
+         ]
+      },
+      {
+         "name":"bamboounion",
+         "location":"Mall 1, Lahore",
+         "timing":"2 pm - 4 am",
+         "website":"https://bamboounion.pk/",
+         "gallery":[
+            "bamboo-union-1.jpg",
+            "bamboo-union-2.jpg",
+            "bamboo-union-3.jpg"
+         ]
       }
    ]
 }
