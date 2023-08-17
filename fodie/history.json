@@ -1,0 +1,42 @@
+{
+   "new_arrival":[
+      {
+         "title":"Chicken Biryani",
+         "location":"MM Alam road, Gulberg III, Lahore",
+         "image":"biryani.jpg"
+      },
+      {
+         "title":"Kozi Haleem",
+         "location":"Haji Sultan Ahmed and Kozi Haleem at Regal Chowk, Lahore",
+         "image":"haleem.jpg"
+      },
+      {
+         "title":"Nehari",
+         "location":"Khyaban e Jinnah, Lahore",
+         "image":"nehari.jpg"
+      },
+      {
+         "title":"Tawa Chicken",
+         "location":"DHA Phase I, IV, Lahore",
+         "image":"tawa-chicken.jpg"
+      },
+      {
+         "title":"Mutton Tikka",
+         "location":"Truck Adda, Lahore",
+         "image":"mutton-tika.jpg"
+      }
+   ],
+   "resturants":[
+      {
+         "name":"Café Aylanto",
+         "location":"MM Alam Road, Lahore",
+         "timing":"12pm - 2 am",
+         "website":"https://www.cafeaylanto.org/",
+         "gallery":[
+            "cafe-aylanto-1.jpg",
+            "cafe-aylanto-2.jpg",
+            "cafe-aylanto-3.jpg"
+         ]
+      }
+   ]
+}
