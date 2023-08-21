@@ -1,4 +1,24 @@
 {
+   "offers" : [
+      {
+         "title" : "Flash Offer",
+         "description": "We are here with the best\nburger in town.",
+         "image": "bc-burger.png",
+         "background": "0xFFFF9F06"
+      },
+      {
+         "title" : "Flash Offer",
+         "description": "We are here with the best\npizza in town.",
+         "image": "kfc-pizza.jpg",
+         "background": "0xFF32B768"
+      },
+      {
+         "title" : "Flash Offer",
+         "description": "We are here with the best\nice-cream in town.",
+         "image": "mcdonald-ice-cream.jpg",
+         "background": "0xFFFF9F06"
+      }
+   ],
    "new_arrival":[
       {
          "title":"Chicken Biryani",
