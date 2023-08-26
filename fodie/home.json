@@ -4,19 +4,22 @@
          "title" : "Flash Offer",
          "description": "We are here with the best\nburger in town.",
          "image": "bc-burger.png",
-         "background": "0xFFFF9F06"
+         "background": "0xFFFF9F06",
+         "company_logo": "logo-bc.png"
       },
       {
          "title" : "Flash Offer",
          "description": "We are here with the best\npizza in town.",
          "image": "kfc-pizza.png",
-         "background": "0xFF32B768"
+         "background": "0xFF32B768",
+         "company_logo": "logo-kfc.png"
       },
       {
          "title" : "Flash Offer",
          "description": "We are here with the best\nice-cream in town.",
          "image": "mcdonald-ice-cream.png",
-         "background": "0xFFFF9F06"
+         "background": "0xFFFF9F06",
+         "company_logo": "logo-mcdonalds.png"
       }
    ],
    "new_arrival":[
