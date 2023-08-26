@@ -9,13 +9,13 @@
       {
          "title" : "Flash Offer",
          "description": "We are here with the best\npizza in town.",
-         "image": "kfc-pizza.jpg",
+         "image": "kfc-pizza.png",
          "background": "0xFF32B768"
       },
       {
          "title" : "Flash Offer",
          "description": "We are here with the best\nice-cream in town.",
-         "image": "mcdonald-ice-cream.jpg",
+         "image": "mcdonald-ice-cream.png",
          "background": "0xFFFF9F06"
       }
    ],
