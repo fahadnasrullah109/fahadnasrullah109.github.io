@@ -4,17 +4,21 @@
       "location":"MM Alam Road, Lahore",
       "timing":"12pm - 2 am",
       "website":"https://www.cafeaylanto.org/",
+      "latitude" : 31.503012323457618,
+      "longitude" : 74.34899922392599,
       "gallery":[
          "cafe-aylanto-1.jpg",
          "cafe-aylanto-2.jpg",
          "cafe-aylanto-3.jpg"
       ]
    },
-   {
+    {
       "name":"Spice Bazaar",
       "location":"MM Alam Road, Lahore",
       "timing":"11 am - 11 pm",
       "website":"http://www.spicebazaar.pk/",
+      "latitude" : 31.510981580572366,
+      "longitude" : 74.34482884635794,
       "gallery":[
          "spice-bazaar-1.jpg",
          "spice-bazaar-2.jpg",
@@ -26,10 +30,12 @@
       "location":"Mall 1, Lahore",
       "timing":"2 pm - 4 am",
       "website":"https://bamboounion.pk/",
+      "latitude" : 31.56177057486949,
+      "longitude" : 74.30491837100708,
       "gallery":[
          "bamboo-union-1.jpg",
          "bamboo-union-2.jpg",
-         "bamboo-union-3.jpeg"
+         "bamboo-union-3.jpg"
       ]
    }
 ]
