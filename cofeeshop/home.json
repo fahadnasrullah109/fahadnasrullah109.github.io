@@ -1,134 +1,143 @@
-[
-  {
-    "category": "Cappuccino",
-    "items": [
-      {
-        "title": "Cappuccino",
-        "description": "with Chocolate",
-        "price": 4.57,
-        "rating": 4.8,
-        "image": "coffee_01.png"
-      },
-      {
-        "title": "Cappuccino",
-        "description": "with Oat Milk",
-        "price": 3.25,
-        "rating": 4.9,
-        "image": "coffee_02.png"
-      },
-      {
-        "title": "Cappuccino",
-        "description": "with Ice",
-        "price": 4,
-        "rating": 4.3,
-        "image": "coffee_03.png"
-      },
-      {
-        "title": "Cappuccino",
-        "description": "with Steamed Milk",
-        "price": 5.12,
-        "rating": 4,
-        "image": "coffee_04.png"
-      }
-    ]
+{
+  "user": {
+    "userId": "ef4f283f-0ca6-42e1-b672-8766beefa276",
+    "name": "Fahad Nasrullah",
+    "profilePicture": "user_image.png",
+    "location": "Lahore, Pakistan"
   },
-  {
-    "category": "Machiato",
-    "items": [
-      {
-        "title": "Machiato",
-        "description": "with Chocolate",
-        "price": 4.57,
-        "rating": 4.8,
-        "image": "coffee_01.png"
-      },
-      {
-        "title": "Machiato",
-        "description": "with Oat Milk",
-        "price": 3.25,
-        "rating": 4.9,
-        "image": "coffee_02.png"
-      },
-      {
-        "title": "Machiato",
-        "description": "with Ice",
-        "price": 4,
-        "rating": 4.2,
-        "image": "coffee_03.png"
-      },
-      {
-        "title": "Machiato",
-        "description": "with Steamed Milk",
-        "price": 5.12,
-        "rating": 4,
-        "image": "coffee_04.png"
-      }
-    ]
-  },
-  {
-    "category": "Latte",
-    "items": [
-      {
-        "title": "Latte",
-        "description": "with Chocolate",
-        "price": 4.57,
-        "rating": 4.8,
-        "image": "coffee_01.png"
-      },
-      {
-        "title": "Latte",
-        "description": "with Oat Milk",
-        "price": 3.25,
-        "rating": 4.9,
-        "image": "coffee_02.png"
-      },
-      {
-        "title": "Latte",
-        "description": "with Ice",
-        "price": 4,
-        "rating": 4.3,
-        "image": "coffee_03.png"
-      },
-      {
-        "title": "Latte",
-        "description": "with Steamed Milk",
-        "price": 5.12,
-        "rating": 4,
-        "image": "coffee_04.png"
-      }
-    ]
-  },
-  {
-    "category": "Americano",
-    "items": [
-      {
-        "title": "Americano",
-        "description": "with Chocolate",
-        "price": 4.57,
-        "rating": 4.8,
-        "image": "coffee_01.png"
-      },
-      {
-        "title": "Americano",
-        "description": "with Oat Milk",
-        "price": 3.25,
-        "rating": 4.9,
-        "image": "coffee_02.png"
-      },
-      {
-        "title": "Americano",
-        "description": "with Ice",
-        "price": 4,
-        "rating": 4.1,
-        "image": "coffee_03.png"
-      },
-      {
-        "title": "Americano",
-        "description": "with Steamed Milk",
-        "price": 5.12,
-        "rating": 4,
-        "image": "coffee_04.png"
-      }
-    ]
-  }
-]
+  "promoUrl": "promo.png",
+  "coffeeCategories": [
+    {
+      "category": "Cappuccino",
+      "items": [
+        {
+          "title": "Cappuccino",
+          "description": "with Chocolate",
+          "price": 4.57,
+          "rating": 4.8,
+          "image": "coffee_01.png"
+        },
+        {
+          "title": "Cappuccino",
+          "description": "with Oat Milk",
+          "price": 3.25,
+          "rating": 4.9,
+          "image": "coffee_02.png"
+        },
+        {
+          "title": "Cappuccino",
+          "description": "with Ice",
+          "price": 4,
+          "rating": 4.3,
+          "image": "coffee_03.png"
+        },
+        {
+          "title": "Cappuccino",
+          "description": "with Steamed Milk",
+          "price": 5.12,
+          "rating": 4,
+          "image": "coffee_04.png"
+        }
+      ]
+    },
+    {
+      "category": "Machiato",
+      "items": [
+        {
+          "title": "Machiato",
+          "description": "with Chocolate",
+          "price": 4.57,
+          "rating": 4.8,
+          "image": "coffee_01.png"
+        },
+        {
+          "title": "Machiato",
+          "description": "with Oat Milk",
+          "price": 3.25,
+          "rating": 4.9,
+          "image": "coffee_02.png"
+        },
+        {
+          "title": "Machiato",
+          "description": "with Ice",
+          "price": 4,
+          "rating": 4.2,
+          "image": "coffee_03.png"
+        },
+        {
+          "title": "Machiato",
+          "description": "with Steamed Milk",
+          "price": 5.12,
+          "rating": 4,
+          "image": "coffee_04.png"
+        }
+      ]
+    },
+    {
+      "category": "Latte",
+      "items": [
+        {
+          "title": "Latte",
+          "description": "with Chocolate",
+          "price": 4.57,
+          "rating": 4.8,
+          "image": "coffee_01.png"
+        },
+        {
+          "title": "Latte",
+          "description": "with Oat Milk",
+          "price": 3.25,
+          "rating": 4.9,
+          "image": "coffee_02.png"
+        },
+        {
+          "title": "Latte",
+          "description": "with Ice",
+          "price": 4,
+          "rating": 4.3,
+          "image": "coffee_03.png"
+        },
+        {
+          "title": "Latte",
+          "description": "with Steamed Milk",
+          "price": 5.12,
+          "rating": 4,
+          "image": "coffee_04.png"
+        }
+      ]
+    },
+    {
+      "category": "Americano",
+      "items": [
+        {
+          "title": "Americano",
+          "description": "with Chocolate",
+          "price": 4.57,
+          "rating": 4.8,
+          "image": "coffee_01.png"
+        },
+        {
+          "title": "Americano",
+          "description": "with Oat Milk",
+          "price": 3.25,
+          "rating": 4.9,
+          "image": "coffee_02.png"
+        },
+        {
+          "title": "Americano",
+          "description": "with Ice",
+          "price": 4,
+          "rating": 4.1,
+          "image": "coffee_03.png"
+        },
+        {
+          "title": "Americano",
+          "description": "with Steamed Milk",
+          "price": 5.12,
+          "rating": 4,
+          "image": "coffee_04.png"
+        }
+      ]
+    }
+  ]
+}
