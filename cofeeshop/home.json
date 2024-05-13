@@ -13,29 +13,41 @@
         {
           "title": "Cappuccino",
           "description": "with Chocolate",
-          "price": 4.57,
+          "price_small": 4.57,
+          "price_medium": 5.57,
+          "price_large": 6.57,
           "rating": 4.8,
+          "detail": "Cappuccino is a classic espresso-based coffee beverage that has captivated coffee lovers worldwide with its harmonious blend of flavors and textures. Originating in Italy, the cappuccino is crafted by combining equal parts of bold espresso, steamed milk, and velvety milk foam, resulting in a drink that is both rich and creamy. The name \"cappuccino\" is thought to be inspired by the color of the Capuchin friars' robes, reminiscent of the coffee's hue when milk is added. Each sip of a well-prepared cappuccino offers a symphony of sensations, from the robust intensity of the espresso to the smoothness of the steamed milk, culminating in the airy frothiness of the milk foam. This beloved coffee beverage is not only a delight to the palate but also a work of art, often adorned with delicate patterns created by skilled baristas known as latte art. Whether enjoyed as a morning pick-me-up or a leisurely indulgence, the cappuccino remains a timeless favorite, celebrated for its balance, complexity, and ability to elevate the coffee-drinking experience.",
           "image": "coffee_01.png"
         },
         {
           "title": "Cappuccino",
           "description": "with Oat Milk",
-          "price": 3.25,
+          "price_small": 3.25,
+          "price_medium": 4.25,
+          "price_large": 5.25,
           "rating": 4.9,
+          "detail": "Cappuccino is a classic espresso-based coffee beverage that has captivated coffee lovers worldwide with its harmonious blend of flavors and textures. Originating in Italy, the cappuccino is crafted by combining equal parts of bold espresso, steamed milk, and velvety milk foam, resulting in a drink that is both rich and creamy. The name \"cappuccino\" is thought to be inspired by the color of the Capuchin friars' robes, reminiscent of the coffee's hue when milk is added. Each sip of a well-prepared cappuccino offers a symphony of sensations, from the robust intensity of the espresso to the smoothness of the steamed milk, culminating in the airy frothiness of the milk foam. This beloved coffee beverage is not only a delight to the palate but also a work of art, often adorned with delicate patterns created by skilled baristas known as latte art. Whether enjoyed as a morning pick-me-up or a leisurely indulgence, the cappuccino remains a timeless favorite, celebrated for its balance, complexity, and ability to elevate the coffee-drinking experience.",
           "image": "coffee_02.png"
         },
         {
           "title": "Cappuccino",
           "description": "with Ice",
-          "price": 4,
+          "price_small": 4,
+          "price_medium": 5,
+          "price_large": 6,
           "rating": 4.3,
+          "detail": "Cappuccino is a classic espresso-based coffee beverage that has captivated coffee lovers worldwide with its harmonious blend of flavors and textures. Originating in Italy, the cappuccino is crafted by combining equal parts of bold espresso, steamed milk, and velvety milk foam, resulting in a drink that is both rich and creamy. The name \"cappuccino\" is thought to be inspired by the color of the Capuchin friars' robes, reminiscent of the coffee's hue when milk is added. Each sip of a well-prepared cappuccino offers a symphony of sensations, from the robust intensity of the espresso to the smoothness of the steamed milk, culminating in the airy frothiness of the milk foam. This beloved coffee beverage is not only a delight to the palate but also a work of art, often adorned with delicate patterns created by skilled baristas known as latte art. Whether enjoyed as a morning pick-me-up or a leisurely indulgence, the cappuccino remains a timeless favorite, celebrated for its balance, complexity, and ability to elevate the coffee-drinking experience.",
           "image": "coffee_03.png"
         },
         {
           "title": "Cappuccino",
           "description": "with Steamed Milk",
-          "price": 5.12,
+          "price_small": 5.12,
+          "price_medium": 6.12,
+          "price_large": 7.12,
           "rating": 4,
+          "detail": "Cappuccino is a classic espresso-based coffee beverage that has captivated coffee lovers worldwide with its harmonious blend of flavors and textures. Originating in Italy, the cappuccino is crafted by combining equal parts of bold espresso, steamed milk, and velvety milk foam, resulting in a drink that is both rich and creamy. The name \"cappuccino\" is thought to be inspired by the color of the Capuchin friars' robes, reminiscent of the coffee's hue when milk is added. Each sip of a well-prepared cappuccino offers a symphony of sensations, from the robust intensity of the espresso to the smoothness of the steamed milk, culminating in the airy frothiness of the milk foam. This beloved coffee beverage is not only a delight to the palate but also a work of art, often adorned with delicate patterns created by skilled baristas known as latte art. Whether enjoyed as a morning pick-me-up or a leisurely indulgence, the cappuccino remains a timeless favorite, celebrated for its balance, complexity, and ability to elevate the coffee-drinking experience.",
           "image": "coffee_04.png"
         }
       ]
@@ -46,29 +58,41 @@
         {
           "title": "Machiato",
           "description": "with Chocolate",
-          "price": 4.57,
+          "price_small": 4.57,
+          "price_medium": 5.57,
+          "price_large": 6.57,
           "rating": 4.8,
+          "detail": "A macchiato, meaning \"stained\" or \"spotted\" in Italian, is a nuanced espresso-based coffee that offers a delightful contrast of flavors and textures. Originating in Italy, the macchiato is characterized by its simplicity and balance, consisting of a shot of bold espresso \"stained\" or \"marked\" with a small amount of frothy milk. This delicate addition of milk serves to soften the intensity of the espresso while enhancing its inherent richness and complexity. The result is a beverage that strikes a perfect harmony between the robustness of the espresso and the creaminess of the milk, creating a symphony of flavors that dance across the palate. With its nuanced flavor profile and elegant presentation, the macchiato exemplifies the artistry and craftsmanship of coffee-making, inviting coffee enthusiasts to savor each sip and appreciate the beauty of simplicity in a cup. Whether enjoyed as a morning ritual or an afternoon indulgence, the macchiato offers a refined and satisfying coffee experience that is sure to delight the senses and leave a lasting impression.",
           "image": "coffee_01.png"
         },
         {
           "title": "Machiato",
           "description": "with Oat Milk",
-          "price": 3.25,
+          "price_small": 3.25,
+          "price_medium": 4.25,
+          "price_large": 5.25,
           "rating": 4.9,
+          "detail": "A macchiato, meaning \"stained\" or \"spotted\" in Italian, is a nuanced espresso-based coffee that offers a delightful contrast of flavors and textures. Originating in Italy, the macchiato is characterized by its simplicity and balance, consisting of a shot of bold espresso \"stained\" or \"marked\" with a small amount of frothy milk. This delicate addition of milk serves to soften the intensity of the espresso while enhancing its inherent richness and complexity. The result is a beverage that strikes a perfect harmony between the robustness of the espresso and the creaminess of the milk, creating a symphony of flavors that dance across the palate. With its nuanced flavor profile and elegant presentation, the macchiato exemplifies the artistry and craftsmanship of coffee-making, inviting coffee enthusiasts to savor each sip and appreciate the beauty of simplicity in a cup. Whether enjoyed as a morning ritual or an afternoon indulgence, the macchiato offers a refined and satisfying coffee experience that is sure to delight the senses and leave a lasting impression.",
           "image": "coffee_02.png"
         },
         {
           "title": "Machiato",
           "description": "with Ice",
-          "price": 4,
+          "price_small": 4,
+          "price_medium": 5,
+          "price_large": 6,
           "rating": 4.2,
+          "detail": "A macchiato, meaning \"stained\" or \"spotted\" in Italian, is a nuanced espresso-based coffee that offers a delightful contrast of flavors and textures. Originating in Italy, the macchiato is characterized by its simplicity and balance, consisting of a shot of bold espresso \"stained\" or \"marked\" with a small amount of frothy milk. This delicate addition of milk serves to soften the intensity of the espresso while enhancing its inherent richness and complexity. The result is a beverage that strikes a perfect harmony between the robustness of the espresso and the creaminess of the milk, creating a symphony of flavors that dance across the palate. With its nuanced flavor profile and elegant presentation, the macchiato exemplifies the artistry and craftsmanship of coffee-making, inviting coffee enthusiasts to savor each sip and appreciate the beauty of simplicity in a cup. Whether enjoyed as a morning ritual or an afternoon indulgence, the macchiato offers a refined and satisfying coffee experience that is sure to delight the senses and leave a lasting impression.",
           "image": "coffee_03.png"
         },
         {
           "title": "Machiato",
           "description": "with Steamed Milk",
-          "price": 5.12,
+          "price_small": 5.12,
+          "price_medium": 6.12,
+          "price_large": 7.12,
           "rating": 4,
+          "detail": "A macchiato, meaning \"stained\" or \"spotted\" in Italian, is a nuanced espresso-based coffee that offers a delightful contrast of flavors and textures. Originating in Italy, the macchiato is characterized by its simplicity and balance, consisting of a shot of bold espresso \"stained\" or \"marked\" with a small amount of frothy milk. This delicate addition of milk serves to soften the intensity of the espresso while enhancing its inherent richness and complexity. The result is a beverage that strikes a perfect harmony between the robustness of the espresso and the creaminess of the milk, creating a symphony of flavors that dance across the palate. With its nuanced flavor profile and elegant presentation, the macchiato exemplifies the artistry and craftsmanship of coffee-making, inviting coffee enthusiasts to savor each sip and appreciate the beauty of simplicity in a cup. Whether enjoyed as a morning ritual or an afternoon indulgence, the macchiato offers a refined and satisfying coffee experience that is sure to delight the senses and leave a lasting impression.",
           "image": "coffee_04.png"
         }
       ]
@@ -79,29 +103,41 @@
         {
           "title": "Latte",
           "description": "with Chocolate",
-          "price": 4.57,
+          "price_small": 4.57,
+          "price_medium": 5.57,
+          "price_large": 6.57,
           "rating": 4.8,
+          "detail": "A latte, derived from the Italian caffè latte, meaning \"milk coffee,\" is a beloved espresso-based beverage cherished for its creamy texture and mellow flavor profile. Crafted by expert baristas worldwide, the latte is a harmonious combination of espresso and steamed milk, topped with a layer of velvety milk foam. With origins tracing back to Italy, the latte has evolved into a staple of coffee culture globally, offering a comforting and indulgent experience to coffee enthusiasts of all backgrounds. The espresso forms the foundation of the latte, contributing a robust and complex flavor that is complemented by the smoothness of the steamed milk. The milk, carefully heated and aerated to achieve the perfect consistency, adds a rich creaminess to the beverage, while the airy foam crowns the latte, providing a luxurious finishing touch. Whether enjoyed as a morning ritual, an afternoon pick-me-up, or a soothing treat before bed, the latte remains a timeless favorite, celebrated for its comforting warmth, velvety mouthfeel, and ability to bring moments of joy and relaxation to those who savor it.",
           "image": "coffee_01.png"
         },
         {
           "title": "Latte",
           "description": "with Oat Milk",
-          "price": 3.25,
+          "price_small": 3.25,
+          "price_medium": 4.25,
+          "price_large": 5.25,
           "rating": 4.9,
+          "detail": "A latte, derived from the Italian caffè latte, meaning \"milk coffee,\" is a beloved espresso-based beverage cherished for its creamy texture and mellow flavor profile. Crafted by expert baristas worldwide, the latte is a harmonious combination of espresso and steamed milk, topped with a layer of velvety milk foam. With origins tracing back to Italy, the latte has evolved into a staple of coffee culture globally, offering a comforting and indulgent experience to coffee enthusiasts of all backgrounds. The espresso forms the foundation of the latte, contributing a robust and complex flavor that is complemented by the smoothness of the steamed milk. The milk, carefully heated and aerated to achieve the perfect consistency, adds a rich creaminess to the beverage, while the airy foam crowns the latte, providing a luxurious finishing touch. Whether enjoyed as a morning ritual, an afternoon pick-me-up, or a soothing treat before bed, the latte remains a timeless favorite, celebrated for its comforting warmth, velvety mouthfeel, and ability to bring moments of joy and relaxation to those who savor it.",
           "image": "coffee_02.png"
         },
         {
           "title": "Latte",
           "description": "with Ice",
-          "price": 4,
+          "price_small": 4,
+          "price_medium": 5,
+          "price_large": 6,
           "rating": 4.3,
+          "detail": "A latte, derived from the Italian caffè latte, meaning \"milk coffee,\" is a beloved espresso-based beverage cherished for its creamy texture and mellow flavor profile. Crafted by expert baristas worldwide, the latte is a harmonious combination of espresso and steamed milk, topped with a layer of velvety milk foam. With origins tracing back to Italy, the latte has evolved into a staple of coffee culture globally, offering a comforting and indulgent experience to coffee enthusiasts of all backgrounds. The espresso forms the foundation of the latte, contributing a robust and complex flavor that is complemented by the smoothness of the steamed milk. The milk, carefully heated and aerated to achieve the perfect consistency, adds a rich creaminess to the beverage, while the airy foam crowns the latte, providing a luxurious finishing touch. Whether enjoyed as a morning ritual, an afternoon pick-me-up, or a soothing treat before bed, the latte remains a timeless favorite, celebrated for its comforting warmth, velvety mouthfeel, and ability to bring moments of joy and relaxation to those who savor it.",
           "image": "coffee_03.png"
         },
         {
           "title": "Latte",
           "description": "with Steamed Milk",
-          "price": 5.12,
+          "price_small": 5.29,
+          "price_medium": 5.99,
+          "price_large": 6.67,
           "rating": 4,
+          "detail": "A latte, derived from the Italian caffè latte, meaning \"milk coffee,\" is a beloved espresso-based beverage cherished for its creamy texture and mellow flavor profile. Crafted by expert baristas worldwide, the latte is a harmonious combination of espresso and steamed milk, topped with a layer of velvety milk foam. With origins tracing back to Italy, the latte has evolved into a staple of coffee culture globally, offering a comforting and indulgent experience to coffee enthusiasts of all backgrounds. The espresso forms the foundation of the latte, contributing a robust and complex flavor that is complemented by the smoothness of the steamed milk. The milk, carefully heated and aerated to achieve the perfect consistency, adds a rich creaminess to the beverage, while the airy foam crowns the latte, providing a luxurious finishing touch. Whether enjoyed as a morning ritual, an afternoon pick-me-up, or a soothing treat before bed, the latte remains a timeless favorite, celebrated for its comforting warmth, velvety mouthfeel, and ability to bring moments of joy and relaxation to those who savor it.",
           "image": "coffee_04.png"
         }
       ]
@@ -112,8 +148,11 @@
         {
           "title": "Americano",
           "description": "with Chocolate",
-          "price": 4.57,
+          "price_small": 4,
+          "price_medium": 5,
+          "price_large": 6,
           "rating": 4.8,
+          "detail": "The Americano, a revered staple in the world of coffee, is a testament to simplicity and versatility. Originating during World War II in Europe, its creation was sparked by the resourcefulness of American soldiers seeking a taste of home amidst the espresso-dominated café culture. Crafted by diluting a shot of bold espresso with hot water, the Americano offers a unique flavor profile that marries the intensity of espresso with the smoothness of water. This blending of elements results in a beverage that boasts a robust yet mellow character, with layers of complexity that unfold with each sip. From the rich aroma of freshly brewed coffee to the clean, crisp finish that lingers on the palate, the Americano embodies the essence of balance and harmony. Its versatility extends beyond its preparation, as it serves as a canvas for customization, allowing aficionados to tailor its strength and flavor to their liking. Whether enjoyed as a morning ritual, a midday pick-me-up, or a leisurely indulgence, the Americano remains a timeless classic, cherished for its simplicity, adaptability, and ability to evoke a sense of comfort and familiarity in every sip.",
           "image": "coffee_01.png"
         },
         {
@@ -121,13 +160,17 @@
           "description": "with Oat Milk",
           "price": 3.25,
           "rating": 4.9,
+          "detail": "The Americano, a revered staple in the world of coffee, is a testament to simplicity and versatility. Originating during World War II in Europe, its creation was sparked by the resourcefulness of American soldiers seeking a taste of home amidst the espresso-dominated café culture. Crafted by diluting a shot of bold espresso with hot water, the Americano offers a unique flavor profile that marries the intensity of espresso with the smoothness of water. This blending of elements results in a beverage that boasts a robust yet mellow character, with layers of complexity that unfold with each sip. From the rich aroma of freshly brewed coffee to the clean, crisp finish that lingers on the palate, the Americano embodies the essence of balance and harmony. Its versatility extends beyond its preparation, as it serves as a canvas for customization, allowing aficionados to tailor its strength and flavor to their liking. Whether enjoyed as a morning ritual, a midday pick-me-up, or a leisurely indulgence, the Americano remains a timeless classic, cherished for its simplicity, adaptability, and ability to evoke a sense of comfort and familiarity in every sip.",
           "image": "coffee_02.png"
         },
         {
           "title": "Americano",
           "description": "with Ice",
-          "price": 4,
+          "price_small": 4,
+          "price_medium": 5,
+          "price_large": 6,
           "rating": 4.1,
+          "detail": "The Americano, a revered staple in the world of coffee, is a testament to simplicity and versatility. Originating during World War II in Europe, its creation was sparked by the resourcefulness of American soldiers seeking a taste of home amidst the espresso-dominated café culture. Crafted by diluting a shot of bold espresso with hot water, the Americano offers a unique flavor profile that marries the intensity of espresso with the smoothness of water. This blending of elements results in a beverage that boasts a robust yet mellow character, with layers of complexity that unfold with each sip. From the rich aroma of freshly brewed coffee to the clean, crisp finish that lingers on the palate, the Americano embodies the essence of balance and harmony. Its versatility extends beyond its preparation, as it serves as a canvas for customization, allowing aficionados to tailor its strength and flavor to their liking. Whether enjoyed as a morning ritual, a midday pick-me-up, or a leisurely indulgence, the Americano remains a timeless classic, cherished for its simplicity, adaptability, and ability to evoke a sense of comfort and familiarity in every sip.",
           "image": "coffee_03.png"
         },
         {
@@ -135,6 +178,7 @@
           "description": "with Steamed Milk",
           "price": 5.12,
           "rating": 4,
+          "detail": "The Americano, a revered staple in the world of coffee, is a testament to simplicity and versatility. Originating during World War II in Europe, its creation was sparked by the resourcefulness of American soldiers seeking a taste of home amidst the espresso-dominated café culture. Crafted by diluting a shot of bold espresso with hot water, the Americano offers a unique flavor profile that marries the intensity of espresso with the smoothness of water. This blending of elements results in a beverage that boasts a robust yet mellow character, with layers of complexity that unfold with each sip. From the rich aroma of freshly brewed coffee to the clean, crisp finish that lingers on the palate, the Americano embodies the essence of balance and harmony. Its versatility extends beyond its preparation, as it serves as a canvas for customization, allowing aficionados to tailor its strength and flavor to their liking. Whether enjoyed as a morning ritual, a midday pick-me-up, or a leisurely indulgence, the Americano remains a timeless classic, cherished for its simplicity, adaptability, and ability to evoke a sense of comfort and familiarity in every sip.",
           "image": "coffee_04.png"
         }
       ]
