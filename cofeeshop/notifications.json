@@ -1,52 +1,62 @@
 [
   {
     "type": "promotional",
-    "title": "Introducing our latest creation: the Caramel Macchiato! Try it today and treat yourself to a burst of flavor.",
-    "message": "22/12/2024"
+    "title": "New Menu Item",
+    "message": "Introducing our latest creation: the Caramel Macchiato! Try it today and treat yourself to a burst of flavor.",
+    "date": "22/12/2024"
   },
   {
     "type": "informational",
-    "title": "Your Americano order has been dispatched from our cafe. Expect delivery within 30 minutes.",
-    "message": "17/12/2024"
+    "title": "Order Dispatched",
+    "message": "Your Americano order has been dispatched from our cafe. Expect delivery within 30 minutes.",
+    "date": "17/12/2024"
   },
   {
     "type": "promotional",
-    "title": "Refer a friend and get a free Macchiato on your next order! Share your referral link to start earning rewards.",
-    "message": "05/11/2024"
+    "title": "Refer a Friend",
+    "message": "Refer a friend and get a free Macchiato on your next order! Share your referral link to start earning rewards.",
+    "date": "05/11/2024"
   },
   {
     "type": "informational",
-    "title": "Your Latte order has been delayed. We apologize for the inconvenience and will keep you updated on its status.",
-    "message": "29/10/2024"
+    "title": "Order Update",
+    "message": "Your Latte order has been delayed. We apologize for the inconvenience and will keep you updated on its status.",
+    "date": "29/10/2024"
   },
   {
     "type": "informational",
-    "title": "Thank you for your payment for your Cappuccino order. Your transaction has been successfully processed.",
-    "message": "14/09/2024"
+    "title": "Payment Received",
+    "message": "Thank you for your payment for your Cappuccino order. Your transaction has been successfully processed.",
+    "date": "14/09/2024"
   },
   {
     "type": "promotional",
-    "title": "Try our new Pumpkin spice latte! Available for a limited time only.",
-    "message": "20/08/2024"
+    "title": "Limited Time Offer",
+    "message": "Try our new Pumpkin spice latte! Available for a limited time only.",
+    "date": "20/08/2024"
   },
   {
     "type": "informational",
-    "title": "Your Americano order is on its way! Our driver is en route and will arrive shortly.",
-    "message": "08/07/2024"
+    "title": "Delivery Update",
+    "message": "Your Americano order is on its way! Our driver is en route and will arrive shortly.",
+    "date": "08/07/2024"
   },
   {
     "type": "informational",
-    "title": "Your Macchiato has been delivered! We hope you enjoy your delicious coffee.",
-    "message": "03/06/2024"
+    "title": "Order Delivered",
+    "message": "Your Macchiato has been delivered! We hope you enjoy your delicious coffee.",
+    "date": "03/06/2024"
   },
   {
     "type": "promotional",
-    "title": "Get 20% off your next Latte order! Use code LATTE20 at checkout to redeem.",
-    "message": "15/05/2024"
+    "title": "Special Offer",
+    "message": "Get 20% off your next Latte order! Use code LATTE20 at checkout to redeem.",
+    "date": "15/05/2024"
   },
   {
     "type": "informational",
-    "title": "Your Cappuccino order has been confirmed! We're preparing your drink and will notify you once it's ready for delivery.",
-    "message": "20/04/2024"
+    "title": "Order Confirmation",
+    "message": "Your Cappuccino order has been confirmed! We're preparing your drink and will notify you once it's ready for delivery.",
+    "date": "20/04/2024"
   }
 ]
