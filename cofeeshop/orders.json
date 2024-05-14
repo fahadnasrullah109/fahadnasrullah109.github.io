@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Cappuccino",
+    "description": "with Chocolate",
+    "price": 10.57,
+    "quantity": 3,
+    "rating": 4.5,
+    "date": "01/01/2024",
+    "image": "coffee_01.png"
+  },
+  {
+    "title": "Machiato",
+    "description": "with Oat Milk",
+    "price": 15.99,
+    "quantity": 4,
+    "rating": 4.3,
+    "date": "10/01/2024",
+    "image": "coffee_03.png"
+  },
+  {
+    "title": "Latte",
+    "description": "with Steamed Milk",
+    "price": 25.79,
+    "quantity": 7,
+    "rating": 4.3,
+    "date": "20/01/2024",
+    "image": "coffee_04.png"
+  },
+  {
+    "title": "Cappuccino",
+    "description": "with Chocolate",
+    "price": 10.57,
+    "quantity": 3,
+    "rating": 4.5,
+    "date": "01/02/2024",
+    "image": "coffee_01.png"
+  },
+  {
+    "title": "Machiato",
+    "description": "with Oat Milk",
+    "price": 15.99,
+    "quantity": 4,
+    "rating": 4.3,
+    "date": "10/02/2024",
+    "image": "coffee_03.png"
+  },
+  {
+    "title": "Americano",
+    "description": "with Steamed Milk",
+    "price": 25.79,
+    "quantity": 7,
+    "rating": 4.3,
+    "date": "22/02/2024",
+    "image": "coffee_04.png"
+  },
+  {
+    "title": "Latte",
+    "description": "with Chocolate",
+    "price": 10.57,
+    "quantity": 3,
+    "rating": 4.5,
+    "date": "10/03/2024",
+    "image": "coffee_01.png"
+  },
+  {
+    "title": "Machiato",
+    "description": "with Oat Milk",
+    "price": 15.99,
+    "quantity": 4,
+    "rating": 4.3,
+    "date": "15/03/2024",
+    "image": "coffee_03.png"
+  },
+  {
+    "title": "Cappuccino",
+    "description": "with Steamed Milk",
+    "price": 25.79,
+    "quantity": 7,
+    "rating": 4.3,
+    "date": "27/03/2024",
+    "image": "coffee_04.png"
+  },
+  {
+    "title": "Latte",
+    "description": "with Chocolate",
+    "price": 10.57,
+    "quantity": 3,
+    "rating": 4.5,
+    "date": "04/04/2024",
+    "image": "coffee_01.png"
+  },
+  {
+    "title": "Americano",
+    "description": "with Oat Milk",
+    "price": 15.99,
+    "quantity": 4,
+    "rating": 4.3,
+    "date": "05/04/2024",
+    "image": "coffee_03.png"
+  },
+  {
+    "title": "Machiato",
+    "description": "with Steamed Milk",
+    "price": 25.79,
+    "quantity": 7,
+    "rating": 4.3,
+    "date": "10/05/2024",
+    "image": "coffee_04.png"
+  }
+]
