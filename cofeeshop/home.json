@@ -11,6 +11,7 @@
       "category": "Cappuccino",
       "items": [
         {
+          "id": "f379bcda-2328-445e-9354-cd129603483f",
           "title": "Cappuccino",
           "description": "with Chocolate",
           "price_small": 4.57,
@@ -21,6 +22,7 @@
           "image": "coffee_01.png"
         },
         {
+          "id": "80dea004-1419-4d50-b612-ecb04a6f056c",
           "title": "Cappuccino",
           "description": "with Oat Milk",
           "price_small": 3.25,
@@ -31,6 +33,7 @@
           "image": "coffee_02.png"
         },
         {
+          "id": "7448af76-0d90-421c-b33e-1e7e906e7498",
           "title": "Cappuccino",
           "description": "with Ice",
           "price_small": 4,
@@ -41,6 +44,7 @@
           "image": "coffee_03.png"
         },
         {
+          "id": "25918156-6475-4eb1-9a4b-79c00b8301a2",
           "title": "Cappuccino",
           "description": "with Steamed Milk",
           "price_small": 5.12,
@@ -56,6 +60,7 @@
       "category": "Machiato",
       "items": [
         {
+          "id": "85dcec25-2511-42e0-ae32-f55fa1c79532",
           "title": "Machiato",
           "description": "with Chocolate",
           "price_small": 4.57,
@@ -66,6 +71,7 @@
           "image": "coffee_01.png"
         },
         {
+          "id": "1d7335f3-9c0e-4f71-8981-088975ffd8da",
           "title": "Machiato",
           "description": "with Oat Milk",
           "price_small": 3.25,
@@ -76,6 +82,7 @@
           "image": "coffee_02.png"
         },
         {
+          "id": "bf913ab0-09e4-4374-bdc7-71d06073979f",
           "title": "Machiato",
           "description": "with Ice",
           "price_small": 4,
@@ -86,6 +93,7 @@
           "image": "coffee_03.png"
         },
         {
+          "id": "66760466-c36f-4e62-ae98-54ffe5780846",
           "title": "Machiato",
           "description": "with Steamed Milk",
           "price_small": 5.12,
@@ -101,6 +109,7 @@
       "category": "Latte",
       "items": [
         {
+          "id": "c08146b2-8f6b-4f90-b0ab-3c47029d4a29",
           "title": "Latte",
           "description": "with Chocolate",
           "price_small": 4.57,
@@ -111,6 +120,7 @@
           "image": "coffee_01.png"
         },
         {
+          "id": "583b0ee9-b749-4b65-8b1c-0e3036642bd7",
           "title": "Latte",
           "description": "with Oat Milk",
           "price_small": 3.25,
@@ -121,6 +131,7 @@
           "image": "coffee_02.png"
         },
         {
+          "id": "0d00b509-38fc-47ae-831e-365772493d2c",
           "title": "Latte",
           "description": "with Ice",
           "price_small": 4,
@@ -131,6 +142,7 @@
           "image": "coffee_03.png"
         },
         {
+          "id": "26de53bb-fa47-41c0-b6a9-add7c39f02d7",
           "title": "Latte",
           "description": "with Steamed Milk",
           "price_small": 5.29,
@@ -146,6 +158,7 @@
       "category": "Americano",
       "items": [
         {
+          "id": "1e04dbe4-86b8-4f67-8254-7e6733d6c1af",
           "title": "Americano",
           "description": "with Chocolate",
           "price_small": 4,
@@ -156,6 +169,7 @@
           "image": "coffee_01.png"
         },
         {
+          "id": "768c65bd-30e6-43de-96b6-660bbfdeb1d7",
           "title": "Americano",
           "description": "with Oat Milk",
           "price": 3.25,
@@ -164,6 +178,7 @@
           "image": "coffee_02.png"
         },
         {
+          "id": "c6dfa101-84db-4dd3-a623-9f238004a437",
           "title": "Americano",
           "description": "with Ice",
           "price_small": 4,
@@ -174,6 +189,7 @@
           "image": "coffee_03.png"
         },
         {
+          "id": "d24c85d5-06ce-4331-bf83-1e14199a5adc",
           "title": "Americano",
           "description": "with Steamed Milk",
           "price": 5.12,
