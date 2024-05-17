@@ -1,0 +1,214 @@
+{
+  "user": {
+    "userId": "ef4f283f-0ca6-42e1-b672-8766beefa276",
+    "name": "John Doe",
+    "profilePicture": "user_image.png"
+  },
+  "promoItem": {
+    "image": "camera.png"
+  },
+  "workspaces": [
+    {
+      "title": "Developer",
+      "image": "developer.png",
+      "items": [
+        {
+          "id": "f379bcda-2328-445e-9354-cd129603483f",
+          "title": "P47 Bluetooth Foldable Headset with Microphone",
+          "shop": "Jodde Electronics",
+          "price": 4.57,
+          "rating": 4.8,
+          "detail": "Equipped with BT Version 5.0, which brings you an unprecedented experience.\nContemporary design allows to blend into the listener's everyday style.\nDesigned to offer a worry-free listening experience for every consumer.",
+          "image": "headphone.png"
+        },
+        {
+          "id": "80dea004-1419-4d50-b612-ecb04a6f056c",
+          "title": "C27G3 27 inch (VA) Curved Gaming Monitor",
+          "shop": "Jodde Electronics",
+          "price": 327.99,
+          "rating": 4.5,
+          "detail": "FreeSync Premium delivers ultra-smooth tear-free gaming. Screen tearing and stuttering doesn't only harm gaming performance, it also destroys immersion.\nThe e-sports professional standard for gaming. With a 165Hz refresh rate and 1ms response time, your display will be equipped to perform at the pro gaming standard.\nDelivering immersion and eye comfort. Curved design wraps around you putting you at the center of the action and provides an immersive gaming experience.",
+          "image": "monitor.png"
+        },
+        {
+          "id": "7448af76-0d90-421c-b33e-1e7e906e7498",
+          "title": "Gaming Chair Adjustable Computer Chair",
+          "shop": "Jodde Electronics",
+          "price": 227.99,
+          "rating": 4.1,
+          "detail": "The backrest/seat cushion is upgraded with a whole piece of large latex padding, which has strong resilience, softer and more comfortable\nReclining angle 138° with footrest\nBionic engineering system, deep fit, caring for the back\nWidened and heightened seat provides more display space\nOne-piece thickened steel frame with sufficient support and strong protection\nThickened and reinforced trays increase the load-bearing capacity of the seat while extending the",
+          "image": "chair.png"
+        },
+        {
+          "id": "25918156-6475-4eb1-9a4b-79c00b8301a2",
+          "title": "Portable External Hard Drive, Mini SSD",
+          "shop": "Jodde Electronics",
+          "price": 51.19,
+          "rating": 4.9,
+          "detail": "Ultra-thin and high capacity: with a large capacity of 2TB and power-saving features, this external hard drive is your perfect removable data base, enough for most daily uses. Ultra-fast Type C external hard drive: this solid state external hard drive has ultra-high transmission, the reading speed is 2 times faster than common hard drives and the writing speed is more than 1 times faster than common hard drives. which will definitely greatly improve your working efficiency! Premium metal casing and superior performance: this portable external hard drive is shock and drop resistant, and the premium aluminum alloy casing provides excellent heat dissipation, durability and safety. It adds a matte texture for a comfortable touch while preventing fingerprints. Smart design and super compatibility: this external solid state drive is easily compatible with mac, WIN7/8/8.1/10, Android, etc., and is suitable for almost 99% of PC systems. Just plug in the power supply and you can use this external hard drive directly without installing software. It is smart enough to automatically sleep after 10 minutes of inactivity, which can prevent body temperature from rising and increase data security.",
+          "image": "ssd.png"
+
+        }
+      ]
+    },
+    {
+      "category": "Photographer",
+      "image": "photographer.png",
+      "items": [
+        {
+          "id": "85dcec25-2511-42e0-ae32-f55fa1c79532",
+          "title": "Digital Camera 1080P HD Compact Camera",
+          "shop": "Markus Electronics",
+          "price": 289.45,
+          "rating": 4.8,
+          "detail": "Introducing our 1080P Compact Digital Camera Video Camcorder, a versatile device that combines the power of a high-quality digital camera with the functionality of a video camcorder. Featuring a 48MP image sensor, this camcorder delivers sharp and vibrant images with exceptional clarity. Whether you're capturing breathtaking landscapes or candid portraits, the camera's high-resolution capabilities ensure every detail. The 1080P video recording capability allows you to capture life's precious moments in full HD. Capture distant subjects with precision and detail, whether you're zooming in on wildlife or capturing the action from a distance. Get closer to the action without sacrificing image quality.",
+          "image": "camera.png"
+        },
+        {
+          "id": "1d7335f3-9c0e-4f71-8981-088975ffd8da",
+          "title": "FE 20mm F1.8 G High-Resolution Prime Lens",
+          "shop": "Markus Electronics",
+          "price": 1289.45,
+          "rating": 5.0,
+          "detail": "Sony's latest optical technology achieves impressive corner-to-corner resolution from maximum F1.8 aperture in a large-aperture wide-angle prime lens. It is also remarkably compact, and matched with an E-mount body makes up a versatile, mobile system with outstanding AF performance, control and reliability for a wide variety of shooting needs. Two AA (advanced aspherical) elements in an innovative optical design minimise aberration for outstanding corner-to-corner resolution, right from the lens's widest F1.8 aperture. An advanced optical design that includes two AA elements is supported by a refined mechanical system in a G Lens that weighs just 373 g (13.2 oz). Small size and light weight enhance mobility when used with compact E-mount bodies, and make up a well-balanced system that is ideal for use on gimbals or accessory grips. The FE 20 mm F1.8 G is a versatile lens for a wide variety of still and movie shooting situations. In addition to precise control of spherical aberration—which has significant influence on bokeh quality—the FE 20 mm F1.8 G has a 9-blade circular aperture that contributes to smooth, creamy bokeh and natural-looking highlights that are hallmarks of the G Lens series. Two AA (advanced aspherical) elements and three ED (Extra-low Dispersion) glass elements are employed to minimise sagittal flare so that point light sources are reproduced accurately, without colour smearing. Two XD (eXtreme Dynamic) Linear Motors easily keep up with the high-speed capabilities of today's most advanced camera bodies, taking advantage of their full autofocus speed, precision and tracking potential to capture the most dynamic subjects. New control algorithms make it possible to drive the lens's large focus group smoothly and without delays for responsive, silent, low-vibration auto focus.",
+          "image": "lens.png"
+        },
+        {
+          "id": "bf913ab0-09e4-4374-bdc7-71d06073979f",
+          "title": "Selfie Stick, 3 in 1 Extendable Selfie Stick Tripod",
+          "shop": "Markus Electronics",
+          "price": 19.45,
+          "rating": 5.0,
+          "detail": "2-in-i selfie stick tripod with remote control, allows you to take self-protracts and group photos freely. Compact size, about 200g weight and 22cm folding length, lightweight and portable.1/4\" screw for mounting action camera or phone holder, and max. load is 0.22kg / 7.8oz.",
+          "image": "tripod.png"
+        },
+        {
+          "id": "66760466-c36f-4e62-ae98-54ffe5780846",
+          "title": "Nylon DSLR Camera Backpack With Rain Cover Black",
+          "shop": "Markus Electronics",
+          "price": 25.45,
+          "rating": 4.8,
+          "detail": "Removable interior can be adjusted to fit multiple DSLR bodies, lenses and accessories\nHeavily padded shoulder straps offer comfortable wearing experience\nLooks stylish and elegant that is perfect for your urban lifestyle\nCompact design makes it less bulky",
+          "image": "lens_bag.png"
+        }
+      ]
+    },
+    {
+      "category": "Creative",
+      "image": "creative.png",
+      "items": [
+        {
+          "id": "85dcec25-2511-42e0-ae32-f55fa1c79532",
+          "title": "New 1060 Plus Drawing Tablet Black",
+          "shop": "Markus Electronics",
+          "price": 99.45,
+          "rating": 4.8,
+          "detail": "New 1060 PLUS drawing tablet - the professional drawing tool, which will inspire your imagination and creativity. You can draw on the tablet naturally with the patented pen just like you draw on a piece of paper with the real pen. The drawing tablet accompanying with a rechargeable stylus, is a natural and intuitive device for drawing and imaging editing tasks. It is also an excellent alternative input device over a mouse when performing conventional computer tasks. Features: 12 express keys on the left and 16 soft keys on the top of the drawing tablet's surface, all can be customized and provide you a plethora of ways to tailor your software experience and raise your work's efficiency. Built-in 8G memory card(can be extended to 64G), easy and convenient to save your masterpiece anywhere and anytime. 10 * 6.25in active area, very large writing area. 5080 LPI resolution and 233 RPS report rate. 8192 levels pressure sensitivity makes your drawing lines smoother and gives you a natural feeling when you drawing. 10mm ultrathin thickness, ergonomic and slim tablet design, portable and convenient to carry it to anywhere you want. Comes with a rechargeable pen, lightweight(only 14g) and comfortable to hold, can be continuously used for 800 hours when fully charged. The pen with auto sleeping function, will save power, very economical and environmental.",
+          "image": "drawing_tablet.png"
+        },
+        {
+          "id": "1d7335f3-9c0e-4f71-8981-088975ffd8da",
+          "title": "Make M5 3D Printer, FDM 3D Printer, 5X Faster and Extra Intelligent",
+          "shop": "Markus Electronics",
+          "price": 1599.45,
+          "rating": 4.8,
+          "detail": "Cut Printing Time by 70%: Get prints fast with PowerBoost. A powerful stepper motor, double-belt driveshaft, and stabilized motion algorithm work together to push out loads of extra power at 5X speed (compared to standard 50mm/sec print speeds).\nPrecise 0.1 mm Detail: Achieve precision—even at 5X speed—thanks to the new ultra-direct extruder and integrated die-cast aluminum alloy structure. Never compromise on stable quality even when you're printing at 5X speed. AnkerMake M5 frees yourself",
+          "image": "printer_3d.png"
+        },
+        {
+          "id": "bf913ab0-09e4-4374-bdc7-71d06073979f",
+          "title": "Acrylic Paint Marker Pens Gift Water Based Extra Fine Tip Markers",
+          "shop": "Markus Electronics",
+          "price": 41.99,
+          "rating": 4.8,
+          "detail": "EQUALLY IDEAL FOR PROFESSIONAL ARTISTS and KIDS : We can assure you that once you take our Acrylic Marker Pens in hands you will not want to let go of them! It’s a great idea for a gift for your creative friends or loved ones.",
+          "image": "paint_marker.png"
+        }
+      ]
+    },
+    {
+      "category": "YouTuber",
+      "image": "youtuber.png",
+      "items": [
+        {
+          "id": "f379bcda-2328-445e-9354-cd129603483f",
+          "title": "P47 Bluetooth Foldable Headset with Microphone",
+          "shop": "Jodde Electronics",
+          "price": 4.57,
+          "rating": 4.8,
+          "detail": "Equipped with BT Version 5.0, which brings you an unprecedented experience.\nContemporary design allows to blend into the listener's everyday style.\nDesigned to offer a worry-free listening experience for every consumer.",
+          "image": "headphone.png"
+        },
+        {
+          "id": "80dea004-1419-4d50-b612-ecb04a6f056c",
+          "title": "C27G3 27 inch (VA) Curved Gaming Monitor",
+          "shop": "Jodde Electronics",
+          "price": 327.99,
+          "rating": 4.5,
+          "detail": "FreeSync Premium delivers ultra-smooth tear-free gaming. Screen tearing and stuttering doesn't only harm gaming performance, it also destroys immersion.\nThe e-sports professional standard for gaming. With a 165Hz refresh rate and 1ms response time, your display will be equipped to perform at the pro gaming standard.\nDelivering immersion and eye comfort. Curved design wraps around you putting you at the center of the action and provides an immersive gaming experience.",
+          "image": "monitor.png"
+        },
+        {
+          "id": "7448af76-0d90-421c-b33e-1e7e906e7498",
+          "title": "Gaming Chair Adjustable Computer Chair",
+          "shop": "Jodde Electronics",
+          "price": 227.99,
+          "rating": 4.1,
+          "detail": "The backrest/seat cushion is upgraded with a whole piece of large latex padding, which has strong resilience, softer and more comfortable\nReclining angle 138° with footrest\nBionic engineering system, deep fit, caring for the back\nWidened and heightened seat provides more display space\nOne-piece thickened steel frame with sufficient support and strong protection\nThickened and reinforced trays increase the load-bearing capacity of the seat while extending the",
+          "image": "chair.png"
+        },
+        {
+          "id": "25918156-6475-4eb1-9a4b-79c00b8301a2",
+          "title": "Portable External Hard Drive, Mini SSD",
+          "shop": "Jodde Electronics",
+          "price": 51.19,
+          "rating": 4.9,
+          "detail": "Ultra-thin and high capacity: with a large capacity of 2TB and power-saving features, this external hard drive is your perfect removable data base, enough for most daily uses. Ultra-fast Type C external hard drive: this solid state external hard drive has ultra-high transmission, the reading speed is 2 times faster than common hard drives and the writing speed is more than 1 times faster than common hard drives. which will definitely greatly improve your working efficiency! Premium metal casing and superior performance: this portable external hard drive is shock and drop resistant, and the premium aluminum alloy casing provides excellent heat dissipation, durability and safety. It adds a matte texture for a comfortable touch while preventing fingerprints. Smart design and super compatibility: this external solid state drive is easily compatible with mac, WIN7/8/8.1/10, Android, etc., and is suitable for almost 99% of PC systems. Just plug in the power supply and you can use this external hard drive directly without installing software. It is smart enough to automatically sleep after 10 minutes of inactivity, which can prevent body temperature from rising and increase data security.",
+          "image": "ssd.png"
+        }
+      ]
+    },
+    {
+      "category": "Marketer",
+      "image": "marketer.png",
+      "items": [
+        {
+          "id": "f379bcda-2328-445e-9354-cd129603483f",
+          "title": "P47 Bluetooth Foldable Headset with Microphone",
+          "shop": "Jodde Electronics",
+          "price": 4.57,
+          "rating": 4.8,
+          "detail": "Equipped with BT Version 5.0, which brings you an unprecedented experience.\nContemporary design allows to blend into the listener's everyday style.\nDesigned to offer a worry-free listening experience for every consumer.",
+          "image": "headphone.png"
+        },
+        {
+          "id": "80dea004-1419-4d50-b612-ecb04a6f056c",
+          "title": "C27G3 27 inch (VA) Curved Gaming Monitor",
+          "shop": "Jodde Electronics",
+          "price": 327.99,
+          "rating": 4.5,
+          "detail": "FreeSync Premium delivers ultra-smooth tear-free gaming. Screen tearing and stuttering doesn't only harm gaming performance, it also destroys immersion.\nThe e-sports professional standard for gaming. With a 165Hz refresh rate and 1ms response time, your display will be equipped to perform at the pro gaming standard.\nDelivering immersion and eye comfort. Curved design wraps around you putting you at the center of the action and provides an immersive gaming experience.",
+          "image": "monitor.png"
+        },
+        {
+          "id": "7448af76-0d90-421c-b33e-1e7e906e7498",
+          "title": "Gaming Chair Adjustable Computer Chair",
+          "shop": "Jodde Electronics",
+          "price": 227.99,
+          "rating": 4.1,
+          "detail": "The backrest/seat cushion is upgraded with a whole piece of large latex padding, which has strong resilience, softer and more comfortable\nReclining angle 138° with footrest\nBionic engineering system, deep fit, caring for the back\nWidened and heightened seat provides more display space\nOne-piece thickened steel frame with sufficient support and strong protection\nThickened and reinforced trays increase the load-bearing capacity of the seat while extending the",
+          "image": "chair.png"
+        },
+        {
+          "id": "25918156-6475-4eb1-9a4b-79c00b8301a2",
+          "title": "Portable External Hard Drive, Mini SSD",
+          "shop": "Jodde Electronics",
+          "price": 51.19,
+          "rating": 4.9,
+          "detail": "Ultra-thin and high capacity: with a large capacity of 2TB and power-saving features, this external hard drive is your perfect removable data base, enough for most daily uses. Ultra-fast Type C external hard drive: this solid state external hard drive has ultra-high transmission, the reading speed is 2 times faster than common hard drives and the writing speed is more than 1 times faster than common hard drives. which will definitely greatly improve your working efficiency! Premium metal casing and superior performance: this portable external hard drive is shock and drop resistant, and the premium aluminum alloy casing provides excellent heat dissipation, durability and safety. It adds a matte texture for a comfortable touch while preventing fingerprints. Smart design and super compatibility: this external solid state drive is easily compatible with mac, WIN7/8/8.1/10, Android, etc., and is suitable for almost 99% of PC systems. Just plug in the power supply and you can use this external hard drive directly without installing software. It is smart enough to automatically sleep after 10 minutes of inactivity, which can prevent body temperature from rising and increase data security.",
+          "image": "ssd.png"
+        }
+      ]
+    }
+  ]
+}
